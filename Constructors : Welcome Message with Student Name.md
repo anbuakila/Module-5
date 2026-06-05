@@ -11,9 +11,19 @@ To write a Python program that creates a **Student** class with a **default cons
 5. **Execute the Program**: Instantiate the `Student` class and call the `show` method.
 
 ## 🧾 Program
+```
+class Student:
+    def __init__(self):
+        print("Student Object Created")
+    def display(self, name):
+        print("Welcome", name)
+name = input()
 
-Add code here
-
+s = Student()
+s.display(name)
+```
 ## Output
+<img width="458" height="238" alt="image" src="https://github.com/user-attachments/assets/2961b2c2-9aad-4845-bf41-e94e6a13a417" />
 
 ## Result
+Thus, the Python program to create a Student class with a default constructor and a method to display a welcome message along with the student's name was executed successfully, and the required output was obtained.
