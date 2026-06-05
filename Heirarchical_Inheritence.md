@@ -2,11 +2,11 @@
 
 This Python project demonstrates **Hierarchical Inheritance** using a base class `Details` and two derived classes `Employee` and `Patient`. The program collects and displays details for both employees and patients.
 
-## 🎯 Aim
+##  Aim
 
 To write a Python program that uses **Hierarchical Inheritance** to input and display **Employee** and **Patient** details.
 
-## 📘 Description
+##  Description
 
 - **Base Class:** `Details`
   - Stores common attributes: `name`, `age`
@@ -22,7 +22,7 @@ To write a Python program that uses **Hierarchical Inheritance** to input and di
   - Adds: `patient_id`, `disease`
   - Method: `getPatientDetails()`
 
-## 🧠 Algorithm
+##  Algorithm
 
 1. Create base class `Details` with common attributes.
 2. Create `Employee` class extending `Details`, adding employee-specific data.
