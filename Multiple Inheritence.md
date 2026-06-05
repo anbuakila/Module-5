@@ -2,11 +2,11 @@
 
 This Python program demonstrates **multiple inheritance** by performing basic arithmetic operations — Addition, Subtraction, and Division — using three classes.
 
-## 🎯 Aim
+##  Aim
 
 To write a Python program to calculate **Add, Sub & Division** using **Multiple Inheritance**.
 
-## 🧠 Algorithm
+##  Algorithm
 
 1. **Define `Calculation1` class**
    - Contains `Summation(a, b)` method to return the sum of two numbers.
@@ -23,7 +23,7 @@ To write a Python program to calculate **Add, Sub & Division** using **Multiple 
 6. **Output**
    - Display the results of the three operations.
 
-## 💻 Program 
+##  Program 
 ```
 class Add:
     def addition(self, a, b):
