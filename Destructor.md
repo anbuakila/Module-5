@@ -2,14 +2,14 @@
 
 This project demonstrates how to implement a **destructor** in Python using a simple class.
 
-## 🚀 Overview
+##  Overview
 
 The program defines a class `Demo` with:
 
 - A **constructor** `__init__` that initializes an instance variable and prints a message.
 - A **destructor** `__del__` that prints a message when the object is destroyed.
 
-## 🧠 Algorithm
+##  Algorithm
 
 1. Define a class named `Demo`.
 2. Inside the class, define the `__init__` method:
@@ -31,7 +31,7 @@ class Demo:
 obj = Demo()
 del obj
 ```
-## 🧪 Output
+##  Output
 <img width="442" height="251" alt="image" src="https://github.com/user-attachments/assets/69655f14-9653-4ef5-8654-fe1abececf66" />
 
 ## Result
